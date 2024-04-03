@@ -17,9 +17,9 @@ public class Jogador {
 		this.cartaComparacaoEstrategia= estrategia;
 	}
 
-	public Carta getWinningCard() {
+	public Carta getVencedorCarta(Carta carta) {
 		
-		return null;
+		return carta;
 	}
 
 }
