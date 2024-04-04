@@ -3,7 +3,7 @@ package projetosupertrunfo.card;
 import projetosupertrunfo.dto.Jogador;
 
 public class JogadorSingleton {
-	private static Jogador	 instance;
+	private static Jogador instance;
 
     private JogadorSingleton() {
         
